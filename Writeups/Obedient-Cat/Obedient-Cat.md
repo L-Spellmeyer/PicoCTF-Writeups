@@ -17,7 +17,7 @@
 ```
         wget https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag
 ```
-  - This command will download the contents of the given file into you current working directory
+  - This command will download the contents of the given file into your current working directory
 2. Display contents of the file
    -  After the file finished downloading check to make sure the file was downloaded succesfully by using the `ls` command. This command will display all the files from the current working directory. After ensuring the file was downloaded use the `cat` command followed by the file you wish to output.
 ```
